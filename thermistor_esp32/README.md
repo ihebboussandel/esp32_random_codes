@@ -4,8 +4,6 @@ This project reads temperature data from an NTC thermistor and displays it on a 
 
 ---
 
-## 📷 Demo
-![OLED showing temperature](https://your-image-link-if-any)
 
 ---
 
